@@ -32,6 +32,6 @@ The password of the next mission will be the flag of that mission. Example: miss
 
 Login to mission1 user to get mission2 flag. 
 
-** Command - su mission1 **
+**Command - su mission1**
 
 
