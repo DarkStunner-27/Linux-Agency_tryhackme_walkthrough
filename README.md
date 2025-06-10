@@ -24,7 +24,8 @@ SSH into the box as agent47
 ![1_LSN9zygf4ScR5fxGNo3ogg](https://github.com/user-attachments/assets/cf499da4-9a7a-4f8a-812c-94e5534e76fc)
 
 ## Task - 3 :
-Agent 47, we are ICA, the Linux Agency. We will test your Linux Fundamentals. 
-Let's see if you can pass all these challenges of basic Linux. 
-The password of the next mission will be the flag of that mission. Example: mission1{1234567890} will be the password for the mission1 user.
+Agent 47, we are ICA, the Linux Agency. We will test your Linux Fundamentals. Let's see if you can pass all these challenges of basic Linux. The password of the next mission will be the flag of that mission. Example: mission1{1234567890} will be the password for the mission1 user.
+
+To get mission2 flag we need to switch user(su) to mission1 and find flag.txt to get mission2 flag
+
 
