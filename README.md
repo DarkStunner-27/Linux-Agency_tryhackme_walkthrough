@@ -21,8 +21,6 @@ After those missions, the next levels will be in Task 4: Privilege Escalation.
 
 SSH into the box as agent47
 
-![1_LSN9zygf4ScR5fxGNo3ogg](https://github.com/user-attachments/assets/cf499da4-9a7a-4f8a-812c-94e5534e76fc)
-
 ## Task - 3 :
 Agent 47, we are ICA, the Linux Agency. We will test your Linux Fundamentals. 
 
@@ -30,8 +28,17 @@ Let's see if you can pass all these challenges of basic Linux.
 
 The password of the next mission will be the flag of that mission. Example: mission1{1234567890} will be the password for the mission1 user.
 
+**Mission 1**
+
 Login to mission1 user to get mission2 flag. 
 
 ### Command - su mission1 ###
 
+![1_LSN9zygf4ScR5fxGNo3ogg](https://github.com/user-attachments/assets/cf499da4-9a7a-4f8a-812c-94e5534e76fc)
+
+**Mission2**
+
+By changing to the home directory in mission1 user, we find the flag of mission2
+
+![image](https://github.com/user-attachments/assets/dddc69a6-30d1-4e8b-99ec-9567fe044f01)
 
