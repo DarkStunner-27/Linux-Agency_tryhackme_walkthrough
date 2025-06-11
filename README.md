@@ -96,4 +96,27 @@ Well, we can try to search for it in all the system.
 
 **Mission10**
 
+By switching to mission9 user we cannot find flag.txt.
+
+We have a well-know dictionary which have more than 14 million words, you can try to read the file to get mission10 flag.
+
+![image](https://github.com/user-attachments/assets/15bfd3a7-92eb-49d0-968a-240aec1dbfc1)
+
+**Mission11**
+
+By switching to mission10 user we can see a folder.
+
+Again by using wc and find command we can search the flag.
+
+![image](https://github.com/user-attachments/assets/4c4e23cc-e5e4-4547-a30b-76822127a627)
+
+**Mission12**
+
+**Mission13**
+
+By switching to mission12 user we can find flag.txt but we don't have permission to read the flag.
+
+By changing the mod by using the command **chmod +r flag.txt** we can change the permission and read the flag.
+
+![image](https://github.com/user-attachments/assets/076b4618-3142-4e0c-adfa-6b30684b3a89)
 
