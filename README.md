@@ -120,3 +120,14 @@ By changing the mod by using the command **chmod +r flag.txt** we can change the
 
 ![image](https://github.com/user-attachments/assets/076b4618-3142-4e0c-adfa-6b30684b3a89)
 
+**Mission14**
+
+By switching to mission13 user we can see a flag.txt.
+
+Opening the flag.txt we see a base64 hash encryption method is used. By decrypting it with base64 we find the flag.
+
+![image](https://github.com/user-attachments/assets/88947788-f5ae-4b18-9e1f-460b0f43aab9)
+
+**Mission15**
+
+
